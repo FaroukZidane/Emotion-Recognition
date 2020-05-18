@@ -1,10 +1,10 @@
-# Emotion Recognition using VGGNet-based Convolutional Neural Network
+# Facial Emotion Recognition using VGGNet-based Convolutional Neural Network
 
 ------
 
 ## Introduction
 
-This projects implements a Real-time Emotion Recognition using VGG-like Convolutional Neural Network trained on the FER2013 Dataset.
+This projects implements a Real-time Facial Emotion Recognition using VGG-like Convolutional Neural Network trained on the FER2013 Dataset.
 
 ## Training
 
